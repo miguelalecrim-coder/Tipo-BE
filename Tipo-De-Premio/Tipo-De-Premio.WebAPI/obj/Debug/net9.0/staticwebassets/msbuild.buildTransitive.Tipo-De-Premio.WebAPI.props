@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Tipo-De-Premio.WebAPI.props" />
+</Project>

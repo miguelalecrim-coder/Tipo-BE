@@ -1,0 +1,34 @@
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-Premio.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-Premio.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-Premio.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-Premio.Infrastructure.AssemblyInfo.cs
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-Premio.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\bin\Debug\net9.0\Tipo-De-Premio.Infrastructure.deps.json
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\bin\Debug\net9.0\Tipo-De-Premio.Infrastructure.runtimeconfig.json
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\bin\Debug\net9.0\Tipo-De-Premio.Infrastructure.dll
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\bin\Debug\net9.0\Tipo-De-Premio.Infrastructure.pdb
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\bin\Debug\net9.0\Tipo-De-Premio.Domain.dll
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\bin\Debug\net9.0\Tipo-De-Premio.Domain.pdb
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-.7893256A.Up2Date
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-Premio.Infrastructure.dll
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\refint\Tipo-De-Premio.Infrastructure.dll
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-Premio.Infrastructure.pdb
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-Premio.Infrastructure.genruntimeconfig.cache
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\ref\Tipo-De-Premio.Infrastructure.dll
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\bin\Debug\net9.0\Tipo-De-Premio.Infrastructure.deps.json
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\bin\Debug\net9.0\Tipo-De-Premio.Infrastructure.runtimeconfig.json
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\bin\Debug\net9.0\Tipo-De-Premio.Infrastructure.dll
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\bin\Debug\net9.0\Tipo-De-Premio.Infrastructure.pdb
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\bin\Debug\net9.0\Tipo-De-Premio.Domain.dll
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\bin\Debug\net9.0\Tipo-De-Premio.Domain.pdb
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-Premio.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-Premio.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-Premio.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-Premio.Infrastructure.AssemblyInfo.cs
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-Premio.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-.7893256A.Up2Date
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-Premio.Infrastructure.dll
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\refint\Tipo-De-Premio.Infrastructure.dll
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-Premio.Infrastructure.pdb
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\Tipo-De-Premio.Infrastructure.genruntimeconfig.cache
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Infrastructure\obj\Debug\net9.0\ref\Tipo-De-Premio.Infrastructure.dll

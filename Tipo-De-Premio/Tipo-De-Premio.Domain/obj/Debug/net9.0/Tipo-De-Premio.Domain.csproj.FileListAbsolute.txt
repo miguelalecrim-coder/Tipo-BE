@@ -1,0 +1,23 @@
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Domain\obj\Debug\net9.0\Tipo-De-Premio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Domain\obj\Debug\net9.0\Tipo-De-Premio.Domain.AssemblyInfoInputs.cache
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Domain\obj\Debug\net9.0\Tipo-De-Premio.Domain.AssemblyInfo.cs
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Domain\obj\Debug\net9.0\Tipo-De-Premio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Domain\bin\Debug\net9.0\Tipo-De-Premio.Domain.deps.json
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Domain\bin\Debug\net9.0\Tipo-De-Premio.Domain.dll
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Domain\bin\Debug\net9.0\Tipo-De-Premio.Domain.pdb
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Domain\obj\Debug\net9.0\Tipo-De-Premio.Domain.dll
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Domain\obj\Debug\net9.0\refint\Tipo-De-Premio.Domain.dll
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Domain\obj\Debug\net9.0\Tipo-De-Premio.Domain.pdb
+C:\Users\miguelalecrim\Desktop\Projeto final\Tipo-De-Premio.Domain\obj\Debug\net9.0\ref\Tipo-De-Premio.Domain.dll
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Domain\bin\Debug\net9.0\Tipo-De-Premio.Domain.deps.json
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Domain\bin\Debug\net9.0\Tipo-De-Premio.Domain.dll
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Domain\bin\Debug\net9.0\Tipo-De-Premio.Domain.pdb
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Domain\obj\Debug\net9.0\Tipo-De-Premio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Domain\obj\Debug\net9.0\Tipo-De-Premio.Domain.AssemblyInfoInputs.cache
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Domain\obj\Debug\net9.0\Tipo-De-Premio.Domain.AssemblyInfo.cs
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Domain\obj\Debug\net9.0\Tipo-De-Premio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Domain\obj\Debug\net9.0\Tipo-De-Premio.Domain.dll
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Domain\obj\Debug\net9.0\refint\Tipo-De-Premio.Domain.dll
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Domain\obj\Debug\net9.0\Tipo-De-Premio.Domain.pdb
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Domain\obj\Debug\net9.0\ref\Tipo-De-Premio.Domain.dll
+C:\Users\miguelalecrim\Desktop\Tipo-De-Premio\Tipo-De-Premio.Domain\obj\Debug\net9.0\Tipo-De-Premio.Domain.csproj.AssemblyReference.cache

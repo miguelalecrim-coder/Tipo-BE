@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tipo-De-Premio.WebAPI.props" />
+</Project>
